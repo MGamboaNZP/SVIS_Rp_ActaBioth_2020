@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Numerical algorithm for Rp in a stochastic SIV model"
+version: v1.0.1
+date-released: 2022-12-26
+authors:
+  - family-names: "Gamboa Pérez"
+    given-names: "Maria"
+    orcid: "https://orcid.org/0000-0003-1184-1115"  
+  - family-names: "Lopez-Herrero"
+    given-names: "Maria J."
+preferred-citation:
+  type: "article"
+  authors:
+    - family-names: "Gamboa"
+      given-names: "M."
+    - family-names: "Lopez-Herrero"
+      given-names: "M. J."
+  title: "Measuring Infection Transmission in a Stochastic SIV Model with Infection Reintroduction and Imperfect Vaccine"
+  journal: "Acta Biotheoretica"
+  year: 2020
+  volume: 68
+  issue: 4
+  pages: 395-420
+  doi: "10.1007/s10441-019-09373-9"
