@@ -9,6 +9,7 @@ This repository contains R scripts associated with the publication:
 > https://doi.org/10.1007/s10441-019-09373-9
 
 ---
+**Software DOI (Zenodo):** https://doi.org/10.5281/zenodo.18060647
 
 ## Repository structure
 
