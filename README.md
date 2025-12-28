@@ -1,12 +1,6 @@
 # Rp Distribution in a Stochastic SIV Model
 
-This repository provides the R implementation used to compute the probability
-mass function of the number of secondary infections (Rp) in a stochastic
-Susceptible–Infected–Vaccinated (SIV) model with infection reintroduction and
-imperfect vaccination.
-
-The code implements the recursive numerical algorithm described in the
-following peer-reviewed publication:
+This repository contains R scripts associated with the publication:
 
 > **Gamboa, M., & Lopez-Herrero, M. J. (2020).**  
 > Measuring Infection Transmission in a Stochastic SIV Model with Infection
